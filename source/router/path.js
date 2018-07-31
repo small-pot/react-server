@@ -1,0 +1,20 @@
+export default {
+    '/':{
+        path:'index/index',
+        title:'官网主页',
+        keywords:'官网关键字',
+        description:'官网描述'
+    },
+    '/price':{
+        path:'index/price',
+        title:'价格页',
+        keywords:'价格页关键字',
+        description:'价格页描述'
+    },
+    '/guide':{
+        path:'guide',
+        title:'guide主页',
+        keywords:'guide关键字',
+        description:'guide描述'
+    }
+}
